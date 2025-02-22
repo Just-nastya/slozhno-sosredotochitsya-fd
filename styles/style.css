@@ -146,7 +146,7 @@
   color: var(--title-decor-color);
 }
 
-.content__articles-list{
+.content__articles-list {
   display: grid;
   gap: 20px;
 }
