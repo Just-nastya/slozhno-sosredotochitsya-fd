@@ -37,19 +37,19 @@
     --hover-color: rgba(50, 49, 45, 0.4);
   }
   
-  .theme-light .header__rec {
+  .header__rec {
     display: none;
   }
   
-  .theme-light .header__theme-menu-button {
+  .header__theme-menu-button {
     color: #353430;
   }
   
-  .theme-light .header__theme-menu-button:focus-visible {
+  .header__theme-menu-button:focus-visible {
     border-block-end: 1px solid #353430;
   }
   
-  .theme-light .header__theme-menu-button_active {
+  .header__theme-menu-button_active {
     outline: 1px solid #353430;
   }
 }
