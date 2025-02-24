@@ -15,10 +15,6 @@
 }
 
 .theme-light .header__rec {
-  display: block;
-}
-
-.theme-light .header__rec {
   display: none;
 }
 
